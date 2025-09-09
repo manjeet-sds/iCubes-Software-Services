@@ -18,12 +18,10 @@ import img11 from "../../../assets/11-2.png";
 import img12 from "../../../assets/12-2.png";
 import img13 from "../../../assets/13-2.png";
 import img14 from "../../../assets/14.png";
-import img15 from "../../../assets/15.png";
 import img16 from "../../../assets/16.png";
 import img17 from "../../../assets/17.png";
 import img18 from "../../../assets/18.png";
 import img19 from "../../../assets/19.png";
-import img20 from "../../../assets/20.png";
 import img21 from "../../../assets/21.png";
 import backflipgymnastics from "../../../assets/backflipgymnastics.png";
 import leisuresec from "../../../assets/leisuresec.png";
@@ -42,12 +40,12 @@ const clientImages = [
   img12,
   img13,
   img14,
-  img15,
+ 
   img16,
   img17,
   img18,
   img19,
-  img20,
+
   img21,
 ];
 

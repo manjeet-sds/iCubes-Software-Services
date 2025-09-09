@@ -36,6 +36,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import React, { useRef, useEffect } from "react";
+import OurServices from "../components/common/homecomponents/OurServices";
 
 const Home = () => {
   const clientImages = [
@@ -75,6 +76,7 @@ const Home = () => {
         <FirstPage />
       </div>
       <ClientSlider/>
+      <OurServices/>
 {/* 
          <div className="mt-16 px-2 sm:px-1 w-full">
         <h2 className="text-left text-[22px] sm:text-[26px] md:text-[30px] lg:text-[36px] font-semibold text-black mb-8 ml-14">

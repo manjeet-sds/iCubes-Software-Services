@@ -12,17 +12,14 @@ const FirstPage = () => {
         {/* Left Section */}
         <div className="w-full lg:w-[60%] text-center lg:text-left">
           <h1 className="leading-20 mb-2 animate__animated animate__fadeInDown">
-             <div className="text-[24px] sm:text-[30px] md:text-[36px] lg:text-[60px] text-[#222222] font-semibold leading-tight">
-              iCubes Software Services
+             <div className="text-[24px] sm:text-[30px] md:text-[36px] lg:text-[50px] text-[#222222] font-semibold leading-tight">
+              Bespoke Software Solutions That Power Businesses
             </div>
           
           </h1>
 
           <p className="text-[15px] sm:text-[18px] sm:tracking-[0] text-[#212121] max-w-[720px] mx-auto lg:mx-0 mb-6 font-medium animate__animated animate__fadeIn animate__delay-1s">
-            First impressions are very important. Your website is your 1st
-            communication channel. We blend style & technology to deliver
-            cutting-edge websites that are beautiful, unique and perform equally
-            well to give life to your business.
+           At iCubes, we don’t just build websites — we engineer end-to-end software solutions. From AI-driven applications and mobile development to enterprise integrations and Linux-based systems, we help businesses modernize, scale, and stay future-ready. Whether it’s a new platform, an upgrade, or a digital transformation project, we deliver technology that works as hard as you do.
           </p>
 
           <button
